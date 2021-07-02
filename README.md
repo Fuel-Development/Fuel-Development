@@ -7,14 +7,14 @@ Welcome to my page! I'm Fuel, a senior in highschool.. I guess you can count me 
 
 ### Most Known Projects ✨
 
-* **[EasyApplications](https://top.gg/bot/737539715854761994)**, Application Bot
-* **[StickyMan](https://top.gg/bot/730326960642850846)**, Sticky Message Bot
+* **[EasyApplications](https://top.gg/bot/737539715854761994)** | Application Bot
+* **[StickyMan](https://top.gg/bot/730326960642850846)** | Sticky Message Bot
 
 ### Skills & Tools 🖱️
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![TypeScript](https://symbols.getvecta.com/stencil_98/84_typescript-icon.5256714561.svg)&nbsp;
+![TypeScript](https://img.shields.io/npm/types/tt)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
