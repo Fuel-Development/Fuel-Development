@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Fuel!](https://fueldevelopment.net/)
 
-Welcome to my page! I'm Fuel, a senior in highschool.. I guess you can count me as a code enthusiast.
+Welcome to my page! I'm a senior in highschool.. I guess you can count me as a code enthusiast.
 
 
 *Most of my stuff can be found here! **[Website](https://fueldevelopment.net)**! 📝*
